@@ -1,0 +1,11 @@
+python-telegram-bot==21.0.1
+python-dotenv==1.0.1
+aiohttp==3.9.3
+aiofiles==23.2.1
+mega.py==1.0.8
+pycryptodome==3.20.0
+tenacity==8.2.3
+aiosqlite==0.19.0
+tqdm==4.66.2
+humanize==4.9.0
+zipstream-new==1.1.8
